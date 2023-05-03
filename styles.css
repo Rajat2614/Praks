@@ -49,6 +49,18 @@ img {
   background-repeat: no-repeat;
   opacity: 0.6;
 }
+
+.paper .n1{
+    position: absolute;
+    padding-left: 200px;
+}
+
+.paper .n2{
+    position: absolute;
+    padding-left: 500px;
+}
+
+
 /* .paper.red {
 /*   filter: hue-rotate(90deg); 
 } */
@@ -64,8 +76,10 @@ img {
 p {
   font-family: 'Zeyada';
   font-size: 50px;
-  color: rgb(0,0,100);
+  color: rgb(0, 0, 0);
   opacity: 0.75;
   user-select: none;
+  font-weight: 600;
+  
   /* filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9)); */
 }
